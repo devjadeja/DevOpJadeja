@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:40px !important;">, I'm Dev</h1>
 <h3 align="center"/>A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopjadeja&label=Profile%20views&color=0e75b6&style=flat" alt="devopjadeja" /> </p>
